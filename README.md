@@ -79,21 +79,10 @@ I'm passionate about translating complex datasets into clear, actionable recomme
 
 ---
 
-### 📈 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nady-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nady-07&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+📍 **Cairo, Egypt** · 📧 **mohamednady0@outlook.com**
 
-</div>
-
----
-
-<div align="center">
-
-📍 Cairo, Egypt · 📧 mohamednady0@outlook.com
-
-**⭐ If you find my projects useful, consider giving them a star!**
+⭐ If you find my projects useful, consider giving them a star!
 
 </div>
