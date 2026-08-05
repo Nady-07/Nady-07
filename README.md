@@ -1,11 +1,11 @@
 <div align="center">
 
 # Mohamed Al Nady
+### Junior Data Analyst · SQL · Power BI · Excel · Data Warehousing
 
-### Data Analyst · SQL · Power BI · Excel · Data Warehousing
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logoColor=white)](https://nady-07.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://nady-07.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-alnady-52b87123b)
+[![Download CV](https://img.shields.io/badge/📄_Download_CV-2563EB?style=for-the-badge&logoColor=white)](https://nady-07.github.io/portfolio/cv/Mohamed_Alnady_CV_ATS.pdf)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamednady0@outlook.com)
 
 </div>
@@ -14,52 +14,51 @@
 
 ### 👋 About Me
 
-Data Analyst with hands-on experience building **end-to-end analytics solutions** — SQL data warehouses, ETL pipelines, data modeling, and Power BI dashboards. I combine strong SQL and data visualization skills with **4 years of cross-functional stakeholder experience** in a data-rich business environment, where insights directly informed strategic decisions.
-
-I'm passionate about translating complex datasets into clear, actionable recommendations for non-technical audiences.
+Data Analyst with hands-on experience building **end-to-end analytics solutions** — SQL data warehouses, ETL pipelines, data modeling, and Power BI dashboards. Combines strong SQL and data visualization skills with **4 years of cross-functional stakeholder experience** in a data-rich business environment, where insights directly informed strategic decisions.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <table>
 <tr>
 <td align="center" width="25%"><b>Data Analysis & Querying</b></td>
 <td align="center" width="25%"><b>Visualization & BI</b></td>
 <td align="center" width="25%"><b>Data Engineering</b></td>
-<td align="center" width="25%"><b>Currently Learning</b></td>
+<td align="center" width="25%"><b>Tools & Learning</b></td>
 </tr>
 <tr>
 <td>
 
-`SQL` `T-SQL` `Excel`
-`Power Query` `Power Pivot`
-`Window Functions`
-`CTEs` `EDA`
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)  
+![T-SQL](https://img.shields.io/badge/T--SQL-00589C?style=flat-square&logoColor=white)  
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)  
+`Power Query` `Window Functions` `CTEs` `EDA`
 
 </td>
 <td>
 
-`Power BI` `DAX`
-`KPI Design`
-`Data Storytelling`
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)  
+`DAX` `KPI Design`  
+`Data Storytelling`  
 `Interactive Dashboards`
 
 </td>
 <td>
 
-`ETL Pipelines`
-`Star Schema`
-`Data Modeling`
-`Data Warehousing`
+`ETL Pipelines`  
+`Star Schema`  
+`Data Modeling`  
+`Data Warehousing`  
 `Medallion Architecture`
 
 </td>
 <td>
 
-`Python` `Pandas`
-`NumPy`
-`Azure Fundamentals`
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure_Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)  
+`Pandas` `NumPy`
 
 </td>
 </tr>
@@ -79,10 +78,17 @@ I'm passionate about translating complex datasets into clear, actionable recomme
 
 ---
 
+### 💼 Commercial Experience Highlights
+- **Freelance Real Estate Analyst & Agent** *(2025 – 2026)* — Analyzed property prices across Cairo districts & built Excel KPI tracking systems.
+- **Smart Step — Real Estate Agent** *(2023 – 2025)* — Cleaned 200+ property listings and built Excel conversion dashboards.
+- **MLS — Primary Sales** *(2022 – 2023)* — Tracked sales pipelines, developer pricing benchmarks, and conversion metrics.
+
+---
+
 <div align="center">
 
 📍 **Cairo, Egypt** · 📧 **mohamednady0@outlook.com**
 
-⭐ If you find my projects useful, consider giving them a star!
+⭐ *If you find my projects useful, consider giving them a star!*
 
 </div>
