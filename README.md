@@ -70,6 +70,7 @@ Data Analyst with hands-on experience building **end-to-end analytics solutions*
 
 | Project | Tools | Highlights |
 |---------|-------|------------|
+| 🌐 [**Samsung Global Performance & Supply Chain**](https://github.com/Nady-07/Samsung-Performance-Dashboard) | Power BI · DAX · Constellation Schema | Diagnosed 4 enterprise domains: $176.95M net revenue, 27.4% net margin, 7,500 shipments, and isolated 459 low-stock items |
 | 📱 [**Telecom Customer Churn & Revenue Loss Dashboard**](https://nady-07.github.io/portfolio/#projects) | Power BI · DAX · Data Modeling | Analyzed 7,043 accounts, isolated **$2.86M** in revenue loss, proved bundling 4+ add-ons cuts churn from 50.3% → 5.3% |
 | 🏗️ [**SQL Data Warehouse — ETL & Modeling**](https://github.com/Nady-07/SQL_Data_Warehouse_Project) | SQL Server · T-SQL · Star Schema | Built end-to-end data warehouse with fact/dimension tables and complete ETL pipelines |
 | 🔍 [**Advanced EDA & Business Reporting**](https://github.com/Nady-07/Advanced_EDA_Project) | SQL Server · T-SQL · Window Functions | Trend analysis with LAG, running averages, cumulative totals, and reusable reporting views |
