@@ -14,7 +14,7 @@
 
 ### 👋 About Me
 
-Data Analyst with hands-on experience building **end-to-end analytics solutions** — SQL data warehouses, ETL pipelines, data modeling, and Power BI dashboards. Combines strong SQL and data visualization skills with **4 years of cross-functional stakeholder experience** in a data-rich business environment, where insights directly informed strategic decisions.
+Junior Data Analyst with 8 months of hands-on manufacturing analytics experience and a strong background in customer-facing sales. Proven track record of preparing structured Excel reports, building interactive Power BI dashboards, and communicating findings directly to senior management and C-level stakeholders. Portfolio work covers SQL data analysis, customer segmentation, multi-year sales trends, and customer churn modeling. Focused on helping Growth and BI teams turn customer and operational data into clear, measurable business actions.
 
 ---
 
