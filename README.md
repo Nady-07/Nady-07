@@ -16,7 +16,7 @@
 
 Data Analyst with **8 months of hands-on manufacturing analytics experience** and a strong commercial background in customer-facing real estate sales. Proven track record of owning end-to-end data preparation, building automated **SQL Server** pipelines, and designing interactive **Power BI** and **Excel** reports (across both desktop and mobile layouts) to deliver actionable insights directly to **C-level executives**.
 
-My portfolio spans **SQL Server data warehousing (Medallion Architecture), Star Schema data modeling, supply chain diagnostics, customer segmentation, and churn intelligence**—focused on helping Growth and BI teams turn raw operational and customer data into clear, measurable business actions.
+My portfolio spans **SQL Server data warehousing (Medallion Architecture), Star & Constellation Schema modeling, supply chain diagnostics, customer segmentation, and churn intelligence**—focused on helping Growth and BI teams turn raw operational and customer data into clear, measurable business actions.
 
 ---
 
@@ -57,7 +57,7 @@ My portfolio spans **SQL Server data warehousing (Medallion Architecture), Star 
 ![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-00589C?style=flat-square&logo=databricks&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-2563EB?style=flat-square&logoColor=white)
 
-`Star Schema Design`  
+`Star & Constellation Schema`  
 `Medallion Architecture`  
 `ETL Pipelines`  
 `Data Cleaning & Auditing`  
@@ -86,23 +86,24 @@ My portfolio spans **SQL Server data warehousing (Medallion Architecture), Star 
 
 | Project | Stack | Key Business Impact & Highlights | Links |
 | :--- | :--- | :--- | :---: |
-| 🌐 [**Samsung Global Performance & Supply Chain**](https://github.com/Nady-07/Samsung-Performance-Dashboard) | `Power BI` `DAX` `Constellation Schema` | Diagnosed 4 enterprise domains: **\$176.95M** net revenue, **27.4%** net margin, **7,500** shipments, and isolated **459** low-stock items. | [📂 Repo](https://github.com/Nady-07/Samsung-Performance-Dashboard) · [🌐 Live](https://nady-07.github.io/portfolio/#projects) |
-| 📱 [**Telecom Customer Churn & Revenue Loss**](https://github.com/Nady-07/Telecom-Customer-Churn-Dashboard) | `Power BI` `DAX` `Data Modeling` | Analyzed **7,043** accounts, isolated **\$2.86M** in revenue loss, and proved bundling 4+ add-ons cuts churn from **50.3% → 5.3%**. | [📂 Repo](https://github.com/Nady-07/Telecom-Customer-Churn-Dashboard) · [🌐 Live](https://nady-07.github.io/portfolio/#projects) |
+| 🌐 [**Samsung Global Performance & Supply Chain**](https://github.com/Nady-07/Samsung-Performance-Dashboard) | `Power BI` `30+ DAX` `Constellation Schema` | Diagnosed 4 enterprise domains across global operations: **\$176.95M** net revenue, **27.4%** net margin, **7,500** shipments, and isolated **459** low-stock items. | [📂 Repo](https://github.com/Nady-07/Samsung-Performance-Dashboard) · [🌐 Live](https://nady-07.github.io/portfolio/#projects) |
+| 📱 [**Telecom Customer Churn & Revenue Loss**](https://github.com/Nady-07/Telecom-Churn-Dashboard) | `Power BI` `DAX` `Data Modeling` | Analyzed **7,043** accounts, isolated **\$2.86M** in revenue loss, and proved bundling 4+ add-ons cuts churn from **50.3% → 5.3%**. | [📂 Repo](https://github.com/Nady-07/Telecom-Churn-Dashboard) · [🌐 Live](https://nady-07.github.io/portfolio/#projects) |
 | 🏦 [**Bank Customer Churn & Financial Risk**](https://github.com/Nady-07/Bank-Customer-Churn-Dashboard) | `Power BI` `DAX` `Data Modeling` | Built a 3-page banking intelligence report isolating active-account financial loss risk from inactive accounts to prioritize high-value retention. | [📂 Repo](https://github.com/Nady-07/Bank-Customer-Churn-Dashboard) · [🌐 Live](https://nady-07.github.io/portfolio/#projects) |
-| 👔 [**IBM HR Attrition & Workforce Intelligence**](https://github.com/Nady-07/IBM-HR-Attrition-Analysis-PowerBI) | `Power BI` `DAX` `Data Storytelling` | Built a 4-page interactive dashboard analyzing turnover drivers across **1,470** employees and **35** workforce attributes. | [📂 Repo](https://github.com/Nady-07/IBM-HR-Attrition-Analysis-PowerBI) · [🌐 Live](https://nady-07.github.io/portfolio/#projects) |
+| 👔 [**IBM HR Attrition & Workforce Intelligence**](https://github.com/Nady-07/IBM-HR-Attrition-Dashboard) | `Power BI` `DAX` `Data Storytelling` | Built a 4-page interactive dashboard analyzing employee turnover drivers across **1,470** records and **35** workforce attributes. | [📂 Repo](https://github.com/Nady-07/IBM-HR-Attrition-Dashboard) · [🌐 Live](https://nady-07.github.io/portfolio/#projects) |
 | 📈 [**Executive Sales & Profitability Reporting**](https://nady-07.github.io/portfolio/#projects) | `Excel` `Power Pivot` `PivotTables` | Tracked **\$14.54M** regional revenue (**28.7K** units) and modeled **\$126.29M** profit at a **41.1%** margin across distribution channels. | [🌐 Live](https://nady-07.github.io/portfolio/#projects) |
 
 ---
 
-### 🗄️ SQL Data Warehousing, ETL Pipelines & Advanced EDA
+### 🗄️ SQL Data Warehousing, ETL & Exploratory Analytics
 
 | Project | Stack | Key Business Impact & Highlights | Links |
 | :--- | :--- | :--- | :---: |
-| 🏗️ [**SQL Data Warehouse — ETL & Modeling**](https://github.com/Nady-07/SQL_Data_Warehouse_Project) | `SQL Server` `T-SQL` `Star Schema` | Engineered an end-to-end **Bronze–Silver–Gold** data warehouse integrating ERP & CRM datasets with automated T-SQL ETL pipelines and dimensional modeling. | [📂 Repo](https://github.com/Nady-07/SQL_Data_Warehouse_Project) |
+| 🏗️ [**SQL Data Warehouse — ETL & Modeling**](https://github.com/Nady-07/SQL_Data_Warehouse_Project) | `SQL Server` `T-SQL` `Star Schema` | Engineered an end-to-end **Bronze–Silver–Gold** data warehouse focusing on automated T-SQL ETL pipelines, dimensional modeling, and business insights. | [📂 Repo](https://github.com/Nady-07/SQL_Data_Warehouse_Project) |
 | 🔍 [**Customer Segmentation & Advanced SQL EDA**](https://github.com/Nady-07/Advanced_EDA_Project) | `SQL Server` `T-SQL` `Window Functions` | Evaluated multi-year sales trends, running averages, cumulative revenue, YoY comparisons, and reusable RFM/recency reporting views. | [📂 Repo](https://github.com/Nady-07/Advanced_EDA_Project) |
-| 🏏 [**2024 Men's T20I Cricket — SQL Analysis**](https://github.com/Nady-07/t20i-cricket-sql-analysis) | `SQL Server` `CTEs` `Window Functions` | Solved 10+ analytical SQL problems evaluating match outcomes, chasing vs. defending win rates, margin volatility, and venue dominance. | [📂 Repo](https://github.com/Nady-07/t20i-cricket-sql-analysis) |
-| 🏘️ [**Real Estate Data Pipeline & Star Schema**](https://github.com/Nady-07/Real-Estate-Analytics-Pipeline) | `Python` `SQL` `Power BI` `Star Schema` | Built an end-to-end ETL pipeline and dimensional model structuring property listings, developer pricing benchmarks, and payment plans. | [📂 Repo](https://github.com/Nady-07/Real-Estate-Analytics-Pipeline) · [🌐 Live](https://nady-07.github.io/portfolio/#projects) |
-| 💻 [**Interactive Analytics Portfolio Website**](https://github.com/Nady-07/portfolio) | `HTML5` `CSS3` `JavaScript` | Source code for my interactive portfolio hub featuring live project case studies, KPI breakdowns, and a single-page ATS resume. | [📂 Repo](https://github.com/Nady-07/portfolio) · [🌐 Live](https://nady-07.github.io/portfolio/) |
+| 📊 [**SQL Exploratory Data Analysis (EDA)**](https://github.com/Nady-07/EDA_Project) | `SQL Server` `T-SQL` `CTEs` | Uncovered operational trends, patterns, and business KPIs using complex joins, window functions, CTEs, and multi-level aggregations. | [📂 Repo](https://github.com/Nady-07/EDA_Project) |
+| 🏏 [**2024 Men's T20I Cricket — SQL Analysis**](https://github.com/Nady-07/t20i-sql-analysis) | `SQL Server` `T-SQL` `Window Functions` | Solved 10+ analytical SQL problems evaluating tournament match outcomes, chasing vs. defending win rates, margin volatility, and venue dominance. | [📂 Repo](https://github.com/Nady-07/t20i-sql-analysis) |
+| 🏆 [**IPL Cricket Analytics — SQL Case Study**](https://github.com/Nady-07/ipl-sql-analytics) | `SQL Server` `T-SQL` `CTEs` | Analyzed IPL match and player performance metrics using T-SQL window functions, aggregations, and conditional analytical queries. | [📂 Repo](https://github.com/Nady-07/ipl-sql-analytics) |
+| 💻 [**Interactive Analytics Portfolio Website**](https://github.com/Nady-07/portfolio) | `HTML5` `CSS3` `JavaScript` | Source repository for my live portfolio hub showcasing interactive BI dashboards, SQL case studies, and an ATS-compliant CV. | [📂 Repo](https://github.com/Nady-07/portfolio) · [🌐 Live](https://nady-07.github.io/portfolio/) |
 
 ---
 
