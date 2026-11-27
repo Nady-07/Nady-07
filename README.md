@@ -22,7 +22,7 @@
 
 Data & Business Intelligence Analyst specializing in **SQL Server (T-SQL)**, **Power BI (DAX)**, **Star & Constellation Schema modeling**, and **Excel Power Pivot**. I own end-to-end data preparation, automated reporting workflows, and desktop/mobile executive dashboards built directly for C-level decision-makers.
 
-My portfolio focuses on **Medallion data warehousing, supply chain diagnostics, customer churn modeling, and workforce analytics** — combining technical data rigor with commercial intuition built through customer-facing real estate sales.
+My portfolio focuses on **Medallion data warehousing, supply chain diagnostics, customer churn modeling, and workforce analytics** — combining technical data rigor with commercial intuition built through customer-facing real estate sales. Currently preparing for **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**.
 
 ---
 
@@ -77,11 +77,11 @@ My portfolio focuses on **Medallion data warehousing, supply chain diagnostics, 
 ![Git & GitHub](https://img.shields.io/badge/Git_%26_GitHub-1D1D1D?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3D3D3D?style=flat-square)
 
-`Churn & Retention`  
-`Customer Segmentation`  
+`Microsoft Fabric (DP-600)`  
+`Pandas & NumPy`  
+`Churn & Segmentation`  
 `YoY & Margin Analysis`  
-`Supply Chain KPIs`  
-`Pandas & NumPy`
+`Supply Chain KPIs`
 
 </td>
 </tr>
@@ -129,9 +129,10 @@ My portfolio focuses on **Medallion data warehousing, supply chain diagnostics, 
 
 ---
 
-## Education & Training
+## Education & Certifications
 
 - **Bachelor of Commerce (B.Com)** — Helwan University, Cairo (`2018 – 2022`)
+- **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)** — Microsoft (`In Progress — Preparing`)
 - **Modern Data Warehouse – Data Engineering** — Udemy (`Jun 2026`)
 - **Data Analysis Diploma** — EraaSoft Academy (`Apr 2026`)
 - **Complete SQL Bootcamp** — Udemy (`2026`)
